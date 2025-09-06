@@ -20,3 +20,9 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
   <img width="48%" src="./assets/images/01-responsive-web-design/02-cafe-menu.png" alt="cafe menu"/>
   </a>
 </p>
+
+<p>
+  <a href="/01-responsive-web-design/03-set-of-colored-markers/">
+  <img width="48%" src="./assets/images/01-responsive-web-design/03-colored-markers.png" alt="colored markers"/>
+  </a>
+</p>
