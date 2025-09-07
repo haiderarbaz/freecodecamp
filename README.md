@@ -25,4 +25,7 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
   <a href="/01-responsive-web-design/03-set-of-colored-markers/">
   <img width="48%" src="./assets/images/01-responsive-web-design/03-colored-markers.png" alt="colored markers"/>
   </a>
+  <a href="/01-responsive-web-design/04-registration-form/">
+  <img width="48%" src="./assets/images/01-responsive-web-design/04-registration-form.png" alt="registration form"/>
+  </a>
 </p>
