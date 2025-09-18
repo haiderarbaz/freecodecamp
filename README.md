@@ -41,9 +41,9 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
 
 <p>
   <a href="./01-responsive-web-design/07-photo-gallery/">
-  <img width="48%" src="./assets/images/01-responsive-web-design/07-photo gallery.png" alt="photo gallery"/>
+  <img width="48%" src="./assets/images/01-responsive-web-design/07-photo-gallery.png" alt="photo gallery"/>
   </a>
-  <a href="">
-  <img width="48%" src=""/>
+  <a href="./01-responsive-web-design/08-nutrition-label/">
+  <img width="48%" src="./assets/images/01-responsive-web-design/08-nutrition-label.png"/>
   </a>
 </p>
