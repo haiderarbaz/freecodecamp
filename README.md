@@ -11,7 +11,8 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
 [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form), [Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1),\
 [Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1), [Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1),\
 [Quiz WebPage](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1), [Tribute page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page),\
-[Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
+[Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet), [Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-cat-painting),\
+[](), [](),\
 
 ### Click any of the images below to view the readme and live demo of the project.
 
@@ -63,7 +64,7 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
   <a href="./01-responsive-web-design/11-balance-sheet/">
   <img width="48%" src="./assets/images/01-responsive-web-design/11-balance-sheet.png" alt="balance sheet"/>
   </a>
-  <a href="">
-  <img width="48%" src=""/>
+  <a href="./01-responsive-web-design/12-cat-painting/">
+  <img width="48%" src="./assets/images/01-responsive-web-design/12-cat-painting.png" alt="cat painting"/>
   </a>
 </p>
