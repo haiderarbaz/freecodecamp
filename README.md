@@ -12,6 +12,7 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
 [Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1), [Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1),\
 [Quiz WebPage](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1), [Tribute page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page),\
 [Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet), [Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-cat-painting),\
+[Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano), [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page),\
 [](), [](),\
 
 ### Click any of the images below to view the readme and live demo of the project.
@@ -66,5 +67,41 @@ This repository contains all projects built following the [freeCodeCamp(🔥)](h
   </a>
   <a href="./01-responsive-web-design/12-cat-painting/">
   <img width="48%" src="./assets/images/01-responsive-web-design/12-cat-painting.png" alt="cat painting"/>
+  </a>
+</p>
+
+<p>
+  <a href="./01-responsive-web-design/13-piano/">
+  <img width="48%" src="./assets/images/01-responsive-web-design/13-piano.png" alt="piano"/>
+  </a>
+  <a href="./01-responsive-web-design/14-technical-documentation-page/">
+  <img width="48%" src="" alt=""/>
+  </a>
+</p>
+
+<p>
+  <a href="./01-responsive-web-design/15-city-skyline/">
+  <img width="48%" src="" alt=""/>
+  </a>
+  <a href="./01-responsive-web-design/16-magazine/">
+  <img width="48%" src="" alt=""/>
+  </a>
+</p>
+
+<p>
+  <a href="./01-responsive-web-design/17-product-landing-page/">
+  <img width="48%" src="" alt=""/>
+  </a>
+  <a href="./01-responsive-web-design/18-ferris-wheel/">
+  <img width="48%" src="" alt=""/>
+  </a>
+</p>
+
+<p>
+  <a href="./01-responsive-web-design/19-penguin/">
+  <img width="48%" src="" alt=""/>
+  </a>
+  <a href="./01-responsive-web-design/20-personal-portfolio-webpage/">
+  <img width="48%" src="" alt=""/>
   </a>
 </p>
