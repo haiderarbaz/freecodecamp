@@ -78,13 +78,39 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
   - [Instructions](./02-lab/01-debug-camperbot's-profile-page/camperbot-instructions.md)
 
+### 2. Debug a Pet Adoption Page
+
+- _Based on_ [freeCodeCamp: Debug a Pet Adoption Page](https://www.freecodecamp.org/learn/full-stack-developer/lab-debug-pet-adoption-page/lab-debug-pet-adoption-page)
+
+- What you'll fix/practice:
+
+  - In this lab, you will need to find and fix the errors in this pet adoption page.
+
+- Code Files & Instructions:
+
+  - [Problem File (with errors)](./02-lab/02-debug-a-pet-adoption-page/pet-adoption-page-error.html)
+
+  - [Solution File (fixed version)](./02-lab/02-debug-a-pet-adoption-page/pet-adoption-page-fixed.html)
+
+  - [Instructions](./02-lab/02-debug-a-pet-adoption-page/pet-adoption-page-instructions.md)
+
 ---
 
 ## 📚[Theory](./03-theory/)
 
 Notes and explanations of concepts covered in workshops and labs.
 
-**_Coming Soon_**
+### 1. Understanding HTML Attributes
+
+- _Based on_ [freeCodeCamp: Understanding HTML Attributes](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-html-attributes/what-is-html)
+
+- What you'll learn:
+
+  - In these section, you will learn more about HTML (HyperText Markup Language), a markup language for creating web pages.
+  - You will learn about HTML's role on the web, and what HTML attributes are.
+
+- README FILE:
+  - [README FILE](./03-theory/01-HTML-ATTRIBUTES.md)
 
 ---
 
