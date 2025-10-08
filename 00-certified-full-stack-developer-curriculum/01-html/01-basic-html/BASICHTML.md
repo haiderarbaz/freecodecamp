@@ -6,25 +6,25 @@ This section covers the fundamentals of HTML through workshops, labs, theory, re
 
 ## 📋 Table of Contents
 
-- [ℹ️ About](#ℹ️about)
-- [💡 Getting Started](#💡getting-started)
-- [🏗️ Structure](#🏗️structure)
-- [🔧 Workshop](#🔧workshop)
-- [💻 Lab](#💻lab)
-- [📚 Theory](#📚theory)
-- [🔍 Review](#🔍review)
-- [❓ Quiz](#❓quiz)
-- [🔗 Resources](#🔗resources)
+- [ℹ️ About](#ℹ️-about)
+- [💡 Getting Started](#💡-getting-started)
+- [🏗️ Structure](#🏗️-structure)
+- [🔧 Workshop](#🔧-workshop)
+- [💻 Lab](#💻-lab)
+- [📚 Theory](#📚-theory)
+- [🔍 Review](#🔍-review)
+- [❓ Quiz](#❓-quiz)
+- [🔗 Resources](#🔗-resources)
 
 ---
 
-## ℹ️About
+## ℹ️ About
 
 This collection covers core HTML concepts for beginners. Each section builds on the previous one, providing multiple learning approaches to reinforce your understanding.
 
 ---
 
-## 💡Getting Started
+## 💡 Getting Started
 
 - Clone or download this repository
 - Navigate to any section folder to begin learning
@@ -33,7 +33,7 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
 ---
 
-## 🏗️Structure
+## 🏗️ Structure
 
 - **🔧Workshop** - Build small projects step by step.
 - **💻Lab** - Debug and fix given code challenges.
@@ -43,7 +43,7 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
 ---
 
-## 🔧[Workshop](./01-workshop/)
+## 🔧 [Workshop](./01-workshop/)
 
 ### 1. Build a Curriculum Online
 
@@ -59,7 +59,7 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
 ---
 
-## 💻[Lab](./02-lab/)
+## 💻 [Lab](./02-lab/)
 
 ### 1. Debug Camperbot's Profile Page
 
@@ -96,7 +96,7 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
 ---
 
-## 📚[Theory](./03-theory/)
+## 📚 [Theory](./03-theory/)
 
 Notes and explanations of concepts covered in workshops and labs.
 
@@ -114,7 +114,7 @@ Notes and explanations of concepts covered in workshops and labs.
 
 ---
 
-## 🔍[Review](./04-review/)
+## 🔍 [Review](./04-review/)
 
 Recap exercises to reinforce your learning.
 
@@ -122,7 +122,7 @@ Recap exercises to reinforce your learning.
 
 ---
 
-## ❓[Quiz](./05-quiz/)
+## ❓ [Quiz](./05-quiz/)
 
 Check your understanding of HTML basics.
 
@@ -130,6 +130,6 @@ Check your understanding of HTML basics.
 
 ---
 
-## 🔗Resources
+## 🔗 Resources
 
 📖 Learn more at [freeCodeCamp HTML Crash Course](https://www.freecodecamp.org/news/html-crash-course/)
