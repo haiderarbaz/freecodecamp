@@ -1,6 +1,6 @@
-# 🏷️ Understanding HTML Attributes
+# 🏷️ Understanding HTML and HTML Attributes
 
-[⬅️Back to BASICHTML.md](../BASICHTML.md)
+[⬅️ Back to BASICHTML.md](../BASICHTML.md)
 
 This section covers the theory behind HTML attributes. You can explore the detailed documentation using the links below.
 
@@ -13,6 +13,17 @@ This section covers the theory behind HTML attributes. You can explore the detai
 ## Short Summary from the above docs
 
 This summary helps you quickly revise the key takeaways from the freeCodeCamp “Understanding HTML Attributes” docs.
+
+---
+
+## 📋 Table of Contents
+
+- [📃 HTML](#📃-html)
+- [🔖 Attributes](#🔖-attributes)
+
+---
+
+## 📃 HTML
 
 - HTML, which stands for HyperText Markup Language, is a markup language for creating web pages.
 
@@ -72,8 +83,6 @@ This summary helps you quickly revise the key takeaways from the freeCodeCamp �
 
 - If you wanted to display an image, you will need to include a couple of attributes inside your image element.
 
-- An attribute is a special value used to adjust the behavior for an HTML element
-
   ```html
   <img src="image location" />
   ```
@@ -91,7 +100,7 @@ This summary helps you quickly revise the key takeaways from the freeCodeCamp �
 
 ---
 
-### What Are Attributes, and How Do They Work?
+## 🔖 Attributes
 
 - An attribute is a value placed inside the opening tag of an HTML element.
 - Attributes provide additional information about the element or specify how the element should behave.
@@ -113,15 +122,15 @@ This summary helps you quickly revise the key takeaways from the freeCodeCamp �
   - Without this attribute, the link would not work because there would be no destination URL.
   - So you must include this `href` attribute to make the link functional.
 
-- Some common attributes are the `src`, or source, and `alt`, or alternative, attribute, which is used to specify the source of an image and provide alternative descriptive text for the image, respectively:
+- Some common attributes are the `src`, or source, and `alt`, or alternative, attribute, which is used to specify the source of an image and provide alternative descriptive text for it, respectively:
 
   ```html
   <img src="image.jpg" alt="A beautiful image" />
   ```
 
 - Similar to the `href` attribute, the `src` attribute is required because it specifies the image file to be displayed.
-- The `alt` attribute is not required, but it is recommended for `accessibility` purposes.
-- `Accessibility` means making sure that everyone, including those with disabilities, can use and understand things like websites, apps, and physical spaces.
+- The `alt` attribute is not required, but it is recommended for accessibility purposes.
+- Accessibility means making sure that everyone, including those with disabilities, can use and understand things like websites, apps, and physical spaces.
 
 - Some attributes are a little unique with their syntax, like the `checked` attribute shown here:
 
@@ -130,14 +139,14 @@ This summary helps you quickly revise the key takeaways from the freeCodeCamp �
   ```
 
   - In the following example, we have an input element with the `type` attribute set to `checkbox`.
-  - `Inputs` are used to collect data from users, and the `type` attribute specifies the type of `input`.
-  - In this case, this input is a `checkbox`.
-  - The `checked` attribute is used to specify that the `checkbox` should be `checked` by default.
+  - Inputs are used to collect data from users, and the `type` attribute specifies the type of input.
+  - In this case, this input is a checkbox.
+  - The `checked` attribute is used to specify that the checkbox should be checked by default.
   - The `checked` attribute does not require a value.
-  - If it is present, the `checkbox` will be `checked` by default.
-  - If the attribute is not present, the checkbox will be unchecked. This is known as a `Boolean attribute`.
+  - If it is present, the checkbox will be checked by default.
+  - If the attribute is not present, the checkbox will be unchecked. This is known as a Boolean attribute.
 
-- There are several common `Boolean attributes` you will encounter in HTML, such as disabled, readonly, and required.
+- There are several common Boolean attributes you will encounter in HTML, such as disabled, readonly, and required.
 - These attributes are used to specify the state of an element, such as whether it is disabled, read-only, or required.
 
 - HTML has many attributes that can be used to customise the behaviour and appearance of elements on a webpage.
