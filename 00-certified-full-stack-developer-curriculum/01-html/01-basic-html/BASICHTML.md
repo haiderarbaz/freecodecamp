@@ -94,6 +94,26 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
   - [Instructions](./02-lab/02-debug-a-pet-adoption-page/pet-adoption-page-instructions.md)
 
+### 3. Build a Recipe Page
+
+- _Based on_ [freeCodeCamp: Build a Recipe Page](https://www.freecodecamp.org/learn/full-stack-developer/lab-recipe-page/build-a-recipe-page)
+
+- What you'll build:
+
+  - Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+  - Example Project:
+
+    <video controls>
+      <source src="./02-lab/03-build-a-recipe-page/recipe-example-project.mp4" type="video/mp4">
+    </video>
+
+- Code File & Instructions:
+
+  - [Solution File](./02-lab/03-build-a-recipe-page/recipe-page.html)
+
+  - [Instructions](./02-lab/03-build-a-recipe-page/recipe-page-instructions.md)
+
 ---
 
 ## 📚 [Theory](./03-theory/)
