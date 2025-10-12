@@ -5,7 +5,7 @@ In this lab, you'll review HTML basics by creating a web page of your favorite r
 Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
 
 <video controls>
-  <source src="./recipe-example-project.mp4" type="video/mp4">
+  <source src="./assets/videos/recipe-example-project.mp4" type="video/mp4">
 </video>
 
 ---
