@@ -105,7 +105,7 @@ This collection covers core HTML concepts for beginners. Each section builds on 
   - Example Project:
 
     <video controls>
-      <source src="./02-lab/03-build-a-recipe-page/recipe-example-project.mp4" type="video/mp4">
+      <source src="./02-lab/03-build-a-recipe-page/assets/videos/recipe-example-project.mp4" type="video/mp4">
     </video>
 
 - Code File & Instructions:
@@ -113,6 +113,26 @@ This collection covers core HTML concepts for beginners. Each section builds on 
   - [Solution File](./02-lab/03-build-a-recipe-page/recipe-page.html)
 
   - [Instructions](./02-lab/03-build-a-recipe-page/recipe-page-instructions.md)
+
+### 4. Build a Travel Agency Page
+
+- _Based on_ [freeCodeCamp: Build a Travel Agency Page](https://www.freecodecamp.org/learn/full-stack-developer/lab-travel-agency-page/build-a-travel-agency-page)
+
+- What you'll build:
+
+  - Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+  - Example Project:
+
+    <video controls>
+      <source src="./02-lab/04-build-a-travel-agency-page/assets/videos/travel-agency-example-project.mp4" type="video/mp4">
+    </video>
+
+- Code File & Instructions:
+
+  - [Solution File](./02-lab/04-build-a-travel-agency-page/travel-agency-page.html)
+
+  - [Instructions](./02-lab/04-build-a-travel-agency-page/travel-agency-page.md)
 
 ---
 
@@ -131,6 +151,41 @@ Notes and explanations of concepts covered in workshops and labs.
 
 - README FILE:
   - [README FILE](./03-theory/01-HTML-ATTRIBUTES.md)
+
+### 2. Understanding HTML Boilerplate
+
+- _Based on_ [freeCodeCamp: Understanding HTML Boilerplate](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-the-html-boilerplate/what-is-the-role-of-the-link-element-in-html)
+
+- What you'll learn:
+
+  - In these section, you will learn about the HTML boilerplate which is a ready-made template for your webpages.
+
+  - You will learn how to work with the link element, meta element and more.
+
+- README FILE:
+  - [README FILE](./03-theory/02-HTML-BOILERPLATE.md)
+
+### 3. HTML Fundamentals
+
+- _Based on_ [freeCodeCamp: HTML Fundamentals](https://www.freecodecamp.org/learn/full-stack-developer/lecture-html-fundamentals/what-are-div-elements)
+
+- What you'll learn:
+
+  - In these section, you will learn about HTML fundamentals like the div element, the id and class attributes, the HTML boilerplate, HTML entities, and more.
+
+- README FILE:
+  - [README FILE](./03-theory/03-HTML-FUNDAMENTALS.md)
+
+### 4. Understanding How HTML Affects SEO
+
+- _Based on_ [freeCodeCamp: Understanding How HTML Affects SEO](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-how-html-affects-seo/what-is-the-role-of-the-meta-description)
+
+- What you'll learn:
+
+  - In these section, you will learn how your HTML code impacts search engine optimization.
+
+- README FILE:
+  - [README FILE](./03-theory/04-HOW-HTML-AFFECTS-SEO.md)
 
 ---
 
