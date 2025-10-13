@@ -134,6 +134,26 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
   - [Instructions](./02-lab/04-build-a-travel-agency-page/travel-agency-page.md)
 
+### 5. Build an HTML Audio and Video Player
+
+- _Based on_ [freeCodeCamp: Build an HTML Audio and Video Player](https://www.freecodecamp.org/learn/full-stack-developer/lab-html-audio-and-video-player/build-an-html-audio-and-video-player)
+
+- What you'll build:
+
+  - Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+  - Example Project:
+
+    <video controls>
+      <source src="./02-lab/05-build-an-html-audio-and-video-player/assets/videos/audio-video-example-project.mp4" type="video/mp4">
+    </video>
+
+- Code File & Instructions:
+
+  - [Solution File](./02-lab/05-build-an-html-audio-and-video-player/audio-and-video-media-player.html)
+
+  - [Instructions](./02-lab/05-build-an-html-audio-and-video-player/audio-and-video-player.md)
+
 ---
 
 ## 📚 [Theory](./03-theory/)
@@ -186,6 +206,17 @@ Notes and explanations of concepts covered in workshops and labs.
 
 - README FILE:
   - [README FILE](./03-theory/04-HOW-HTML-AFFECTS-SEO.md)
+
+### 5. Working with HTML Audio and Video Player
+
+- _Based on_ [freeCodeCamp: Working with HTML Audio and Video Player](https://www.freecodecamp.org/learn/full-stack-developer/lab-html-audio-and-video-player/build-an-html-audio-and-video-player)
+
+- What you'll learn:
+
+  - In this section, you will learn how to work with the audio and video elements.
+
+- README FILE:
+  - [README FILE](./03-theory/05-AUDIO-VIDEO-ELEMENTS.md)
 
 ---
 
