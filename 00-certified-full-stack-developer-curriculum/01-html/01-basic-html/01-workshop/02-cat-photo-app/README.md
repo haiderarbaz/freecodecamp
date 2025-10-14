@@ -1,4 +1,4 @@
-# Cat Photo App
+# Build a Cat Photo App
 
 HTML stands for HyperText Markup Language and it represents the content and structure of a web page.
 
