@@ -45,17 +45,37 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
 ## 🔧 [Workshop](./01-workshop/)
 
+💡 **Note:** Workshops on FCC(freeCodeCamp) are step-by-step guided builds. This repo only contains the final solution file, not every individual step.
+
 ### 1. Build a Curriculum Online
 
 - [My Solution](./01-workshop/01-curriculum-outline/curriculum.html)
-
-💡 Note: Workshops on FCC are step-by-step guided builds. This repo only contains the final solution file, not every individual step.
 
 - _Based on_ [freeCodeCamp: Build a Curriculum Outline](https://www.freecodecamp.org/learn/full-stack-developer/workshop-curriculum-outline/step-1)
 
 - What you'll learn/build:
 
   - This workshop will serve as your introduction to HTML and coding in general. You will learn about headings and paragraph elements.
+
+### 2. Build a Cat Photo App
+
+- [My Solution](./01-workshop/02-cat-photo-app/cat-photo-app.html)
+
+- _Based on_ [freeCodeCamp: Build a Cat Photo App](https://www.freecodecamp.org/learn/full-stack-developer/workshop-cat-photo-app/step-1)
+
+- What you'll learn/build:
+
+  - In this workshop, you will learn how to work with basic HTML elements such as headings, paragraphs, images, links, and lists.
+
+### 3. Build a Heart Icon
+
+- [My Solution](./01-workshop/03-heart-icon/heart-icon.html)
+
+- _Based on_ [freeCodeCamp: Build a Heart Icon](https://www.freecodecamp.org/learn/full-stack-developer/workshop-build-a-heart-icon/step-1)
+
+- What you'll learn/build:
+
+  - In this workshop, you will practice working with SVGs by building a heart icon.
 
 ---
 
@@ -162,7 +182,7 @@ Notes and explanations of concepts covered in workshops and labs.
 
 ### 1. Understanding HTML Attributes
 
-- _Based on_ [freeCodeCamp: Understanding HTML Attributes](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-html-attributes/what-is-html)
+- _Based on_ [freeCodeCamp: Understanding HTML Attributes](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-html-attributes/)
 
 - What you'll learn:
 
@@ -174,7 +194,7 @@ Notes and explanations of concepts covered in workshops and labs.
 
 ### 2. Understanding HTML Boilerplate
 
-- _Based on_ [freeCodeCamp: Understanding HTML Boilerplate](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-the-html-boilerplate/what-is-the-role-of-the-link-element-in-html)
+- _Based on_ [freeCodeCamp: Understanding HTML Boilerplate](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-the-html-boilerplate/)
 
 - What you'll learn:
 
@@ -187,7 +207,7 @@ Notes and explanations of concepts covered in workshops and labs.
 
 ### 3. HTML Fundamentals
 
-- _Based on_ [freeCodeCamp: HTML Fundamentals](https://www.freecodecamp.org/learn/full-stack-developer/lecture-html-fundamentals/what-are-div-elements)
+- _Based on_ [freeCodeCamp: HTML Fundamentals](https://www.freecodecamp.org/learn/full-stack-developer/lecture-html-fundamentals/)
 
 - What you'll learn:
 
@@ -198,7 +218,7 @@ Notes and explanations of concepts covered in workshops and labs.
 
 ### 4. Understanding How HTML Affects SEO
 
-- _Based on_ [freeCodeCamp: Understanding How HTML Affects SEO](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-how-html-affects-seo/what-is-the-role-of-the-meta-description)
+- _Based on_ [freeCodeCamp: Understanding How HTML Affects SEO](https://www.freecodecamp.org/learn/full-stack-developer/lecture-understanding-how-html-affects-seo/)
 
 - What you'll learn:
 
@@ -209,7 +229,7 @@ Notes and explanations of concepts covered in workshops and labs.
 
 ### 5. Working with HTML Audio and Video Player
 
-- _Based on_ [freeCodeCamp: Working with HTML Audio and Video Player](https://www.freecodecamp.org/learn/full-stack-developer/lab-html-audio-and-video-player/build-an-html-audio-and-video-player)
+- _Based on_ [freeCodeCamp: Working with HTML Audio and Video Player](https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-audio-and-video-elements/)
 
 - What you'll learn:
 
@@ -217,6 +237,17 @@ Notes and explanations of concepts covered in workshops and labs.
 
 - README FILE:
   - [README FILE](./03-theory/05-AUDIO-VIDEO-ELEMENTS.md)
+
+### 6. Working with Images and SVGs
+
+- _Based on_ [freeCodeCamp: Working with Images and SVGs](https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-images-and-svgs/)
+
+- What you'll learn:
+
+  - In these lessons, you will learn how to work with SVGs and learn about techniques for optimizing your images.
+
+- README FILE:
+  - [README FILE](./03-theory/06-IMAGES-AND-SVGs.md)
 
 ---
 
