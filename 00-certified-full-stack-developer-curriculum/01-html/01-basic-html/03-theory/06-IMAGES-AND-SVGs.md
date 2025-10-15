@@ -257,3 +257,14 @@ This summary helps you quickly revise the key takeaways from the freeCodeCamp �
 - They allow you to adapt your layout to any responsive design you need.
 
 **Next time when you have an SVG locally, try opening it with a text editor and playing with the code.**
+
+## 🧠 Key Takeaways
+
+- Optimize images by adjusting size, format, and compression
+- Use modern formats like WEBP or AVIF for better performance
+- All images are copyrighted by default—respect licensing requirements
+- Fair use, Creative Commons, and public domain images have different usage rules
+- SVGs are vector-based and scale infinitely without quality loss
+- Raster images (PNG, JPG) are pixel-based and become blurry when enlarged
+- Use SVGs for icons and logos; use raster formats for photos
+- SVG code can be edited directly in HTML and styled with CSS
