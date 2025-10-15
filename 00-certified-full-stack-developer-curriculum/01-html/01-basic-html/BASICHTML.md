@@ -49,17 +49,15 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
 ### 1. Build a Curriculum Online
 
-- [My Solution](./01-workshop/01-curriculum-outline/curriculum.html)
-
 - _Based on_ [freeCodeCamp: Build a Curriculum Outline](https://www.freecodecamp.org/learn/full-stack-developer/workshop-curriculum-outline/step-1)
 
 - What you'll learn/build:
 
   - This workshop will serve as your introduction to HTML and coding in general. You will learn about headings and paragraph elements.
 
-### 2. Build a Cat Photo App
+- [My Solution](./01-workshop/01-curriculum-outline/curriculum.html)
 
-- [My Solution](./01-workshop/02-cat-photo-app/cat-photo-app.html)
+### 2. Build a Cat Photo App
 
 - _Based on_ [freeCodeCamp: Build a Cat Photo App](https://www.freecodecamp.org/learn/full-stack-developer/workshop-cat-photo-app/step-1)
 
@@ -67,15 +65,27 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
   - In this workshop, you will learn how to work with basic HTML elements such as headings, paragraphs, images, links, and lists.
 
-### 3. Build a Heart Icon
+- [My Solution](./01-workshop/02-cat-photo-app/cat-photo-app.html)
 
-- [My Solution](./01-workshop/03-heart-icon/heart-icon.html)
+### 3. Build a Heart Icon
 
 - _Based on_ [freeCodeCamp: Build a Heart Icon](https://www.freecodecamp.org/learn/full-stack-developer/workshop-build-a-heart-icon/step-1)
 
 - What you'll learn/build:
 
   - In this workshop, you will practice working with SVGs by building a heart icon.
+
+- [My Solution](./01-workshop/03-heart-icon/heart-icon.html)
+
+### 4. Build a Video Display Using iframe
+
+- _Based on_ [freeCodeCamp: Build a Video Display Using iframe](https://www.freecodecamp.org/learn/full-stack-developer/workshop-build-a-video-display-using-iframe/step-1)
+
+- What you'll learn/build:
+
+  - In this workshop, you'll learn how to work with the iframe element by building a video display.
+
+- [My Solution](./01-workshop/04-video-display/video-display.html)
 
 ---
 
@@ -174,6 +184,26 @@ This collection covers core HTML concepts for beginners. Each section builds on 
 
   - [Instructions](./02-lab/05-build-an-html-audio-and-video-player/audio-and-video-player.md)
 
+### 6. Build a Video Compilation Page
+
+- _Based on_ [freeCodeCamp: Build a Video Compilation Page](https://www.freecodecamp.org/learn/full-stack-developer/lab-video-compilation-page/build-a-video-compilation-page)
+
+- What you'll build:
+
+  - Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+  - Example Project:
+
+    <video controls>
+      <source src="./02-lab/06-build-a-video-compilation-page/assets/video-compilation-example-project.mp4" type="video/mp4">
+    </video>
+
+- Code File & Instructions:
+
+  - [Solution File](./02-lab/06-build-a-video-compilation-page/video-copilation-page.html)
+
+  - [Instructions](./02-lab/06-build-a-video-compilation-page/video-compilation-page.md)
+
 ---
 
 ## 📚 [Theory](./03-theory/)
@@ -244,10 +274,21 @@ Notes and explanations of concepts covered in workshops and labs.
 
 - What you'll learn:
 
-  - In these lessons, you will learn how to work with SVGs and learn about techniques for optimizing your images.
+  - In this section, you will learn how to work with SVGs and learn about techniques for optimizing your images.
 
 - README FILE:
   - [README FILE](./03-theory/06-IMAGES-AND-SVGs.md)
+
+### 7. Working with the iframe Element
+
+- _Based on_ [freeCodeCamp: Working with the iframe Element](https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-media/)
+
+- What you'll learn:
+
+  - In this section, you will learn how to work with the iframe element which is used to embed an external site on your web page.
+
+- README FILE:
+  - [README FILE](./03-theory/07-IFRAME-ELEMENTS.md)
 
 ---
 
