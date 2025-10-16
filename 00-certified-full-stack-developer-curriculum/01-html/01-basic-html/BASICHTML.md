@@ -290,19 +290,41 @@ Notes and explanations of concepts covered in workshops and labs.
 - README FILE:
   - [README FILE](./03-theory/07-IFRAME-ELEMENTS.md)
 
+### 8. Working with Links
+
+- _Based on_ [freeCodeCamp: Working with Links](https://www.freecodecamp.org/learn/full-stack-developer/lecture-working-with-links/)
+
+- What you'll learn:
+
+  - In this section, you will learn about links, the target attribute, different link states, absolute, and relative paths, and more.
+
+- README FILE:
+  - [README FILE](./03-theory/08-WORKING-WITH-LINKS.md)
+
 ---
 
 ## 🔍 [Review](./04-review/)
 
 Recap exercises to reinforce your learning.
 
-**_Coming Soon_**
+- _Based on_ [freeCodeCamp: Basic HTML Review](https://www.freecodecamp.org/learn/full-stack-developer/review-basic-html/basic-html-review)
+
+- Before you are quizzed on the HTML knowledge you have gained so far, you first need to review the concepts.
+
+- Open up this page to review the HTML boilerplate, audio and video elements, the different target attribute values and more.
+  - [Basic HTML Review](./04-review/BASIC-HTML-REVEIW.md)
 
 ---
 
 ## ❓ [Quiz](./05-quiz/)
 
 Check your understanding of HTML basics.
+
+- _Based on_ [freeCodeCamp: Basic HTML Quiz](https://www.freecodecamp.org/learn/full-stack-developer/quiz-basic-html/quiz-basic-html)
+
+- The following quiz will test your knowledge of the basic HTML concepts you have learned so far.
+
+- [Answered File](./05-quiz/BASIC-HTML-QUIZ.md)
 
 **_Coming Soon_**
 
