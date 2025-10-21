@@ -1,4 +1,4 @@
-# FreeCodeCamp-Project
+# FreeCodeCamp
 
 This repository contains all projects built following the [freeCodeCamp(🔥)](https://www.freecodecamp.org/learn).
 
